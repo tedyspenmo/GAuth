@@ -1,6 +1,6 @@
 module tedy.com/google_auth
 
-go 1.17
+go 1.16
 
 require (
 	github.com/dgryski/dgoogauth v0.0.0-20190221195224-5a805980a5f3
